@@ -1,0 +1,13 @@
+{
+    "name": "nombre_pokemon",
+    "primary_type": "primer_tipo",
+    "secondary_type": "segundo_tipo",
+    "first_appreance": "primera_aparicion",
+    "generation": "generacion",
+    "category": "categoria",
+    "attack": "ataque",
+    "defense": "defensa",
+    "special_attack": "ataque_especial",
+    "special_defense": "defensa_especial",
+    "speed": "velocidad"
+}
